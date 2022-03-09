@@ -21,4 +21,5 @@ do
   sed -r 's/,\"channel\":.+/}/'
   echo
   sleep 1
+  echo
 done

@@ -15,4 +15,5 @@ do
   sed -r 's/,"message":.+/}/'
   echo
   sleep 1
+  echo
 done

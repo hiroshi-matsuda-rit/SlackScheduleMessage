@@ -17,4 +17,5 @@ do
     -d "{\"channel\":\"${f[1]}\",\"scheduled_message_id\":\"${f[0]}\"}"
   echo
   sleep 1
+  echo
 done
